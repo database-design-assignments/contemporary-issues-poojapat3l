@@ -1,4 +1,4 @@
-```markdown
+
 # Publishing Ethics 
 In this document, I discuss two articles about Retraction Watch, a database that collects retracted science papers which has gaines popularity in the COVID-era. I present and discuss two opposing views on what Retraction Watch shows us about the culture of science research.
 
@@ -12,7 +12,7 @@ As an observer and participator of science, I understand that a retraction may n
 Contrary to the claims made in NPR's piece on the issue, Reason magazine's [Publishing Ethics: An Interview With the Founders of Retraction Watch](https://www.sciencedirect.com/science/article/pii/B978012809969800019X), Jasna Markovac, Molly Kleinman, Michael Englesbe, argue that the rise in retracted papers, as seem through the Retraction Watch database, is the result of fraud through a broken peer-review system that allows predatory publishers to take advantage of authors by promising conventional review but not going through.
 
 I believe the peer-review system may need more scrutiny and predatory publishers should be revoked of their abilities to review. Beyond this, I dont belive individualizing peer-review is the solution. Scientific communities should establish themselves under a general review system that every study must be screened through. Faulty review systems are a part of the problem but they are not the only reason papers get retracted. The burden of misconduct likely comes from many other sources as well including falsified data, flawed images, and plagiarism. 
-```
+
 
 
 
